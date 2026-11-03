@@ -1,0 +1,8 @@
+{
+  "name": "송내 엄마 요양원",
+  "description": "내가 낳고 기른 내 자식처럼, 엄마의 마음으로 따뜻하게 모십니다. 경기도 부천시 소사구 송내동 88인 정원 안심 케어 요양원.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
